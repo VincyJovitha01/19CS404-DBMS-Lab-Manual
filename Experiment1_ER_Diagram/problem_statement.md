@@ -47,7 +47,7 @@ Design a database for patient management, appointments, medical records, and bil
 
 # ER Diagram Submission - Vincy Jovitha V
 ## Scenario Chosen:
-University / Hospital (choose one)
+University 
 
 ## ER Diagram:
 ![Screenshot 2025-03-03 103257](https://github.com/user-attachments/assets/96cd0f7d-0e93-4946-af45-2521fc5a7d69)
